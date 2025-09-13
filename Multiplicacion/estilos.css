@@ -1,0 +1,25 @@
+#respuesta {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    background-color: #D8BCF7;
+    border: 2px solid #D8BCF7;
+    
+}
+#texto {
+    font-family: 'Impact', sans-serif;
+    color: #603D91;
+}
+#multiplicacion {
+    font-family: 'Candara', sans-serif;
+}
+#botonMultiplicar {
+    width: 150px;
+    font-size: 1.1rem; 
+    background-color: #A879E0;
+    border: #A879E0;
+}
+body {
+    background-color: #EEE9F5 !important;
+}
